@@ -27,7 +27,7 @@ Validates if a `value` is a nonnegative integer.
 ``` javascript
 var value = 5;
 
-var bool = isValid( 5 );
+var bool = isValid( value );
 // returns true
 ```
 
